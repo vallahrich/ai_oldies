@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hello", "Hi", "Good morning", "Hey there"],
+      "responses": ["Hello! How can I help you today?", "Hi there! What can I do for you?"]
+    },
+    {
+      "tag": "set_reminder",
+      "patterns": ["Set a reminder", "Remind me to", "Don't let me forget to"],
+      "responses": ["Sure, I can set a reminder for you. What should I remind you about?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Goodbye", "Bye", "See you later"],
+      "responses": ["Goodbye! Have a great day!", "Take care! Let me know if you need anything."]
+    }
+  ]
+}
