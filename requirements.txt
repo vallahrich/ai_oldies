@@ -2,3 +2,7 @@ SpeechRecognition
 pyttsx3
 scikit-learn
 numpy
+tensorflow
+keras
+torch
+transformers
